@@ -1,4 +1,10 @@
-The requirements.txt only contain the libraries needed for Yolo V1 and V2, as the other notebooks has code snippet to install their own required libraries.
+## Drive link
+
+Dataset, Pretrained Weight and Weights folder can be found in this drive link
+
+https://drive.google.com/drive/folders/1oJkBgiu8ra-HRSkPJjfYwInA5rPqsnYM?usp=drive_link
+
+## The requirements.txt only contain the libraries needed for Yolo V1 and V2, as the other notebooks has code snippet to install their own required libraries.
 Yolo V1 and V2 are trained on Kaggle, their notebook should be put on Kaggle to be used
 
 Specifically:
