@@ -20,6 +20,7 @@ Specifically:
     You can have different names but if you do so you'll need to change their directory in the code.
     Run the cells in the notebook to retrain it, and the last cell would calculate the mAP (this may take a long time)
 YoloV3-5-6-7-8:
+    For V6 and V7, you should also change the directory to clone the github repository on your system
     Simply upload their notebooks onto Google Colab and upload the "Dataset/Other" and the "Weights" folder to you google drive
     After mounting the drive, you should:
         - Change the directory to the mydataset.yaml and the pretrained weights in "Pretrained Weights" if you want to retrain
